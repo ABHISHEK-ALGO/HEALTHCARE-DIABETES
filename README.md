@@ -22,7 +22,7 @@ columns below, a value of zero does not make sense and thus indicates missing va
 • BloodPressure
 • SkinThickness
 • Insulin
-• BMI
+• BMI stands for body mass index
 2. Visually explore these variables using histograms. Treat the missing values accordingly.
 3. There are integer and float data type variables in this dataset. Create a count (frequency) plot 
 describing the data types and the count of variables.
