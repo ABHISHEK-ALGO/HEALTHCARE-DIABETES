@@ -20,7 +20,7 @@ not.
 columns below, a value of zero does not make sense and thus indicates missing value:
 • Glucose
 • BloodPressure
-• SkinThickness
+• SkinThickness,
 • Insulin
 • BMI stands for body mass index
 2. Visually explore these variables using histograms. Treat the missing values accordingly.
